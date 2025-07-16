@@ -1,0 +1,8 @@
+torch
+huggingface_hub
+transformers
+peft
+datasets
+accelerate
+trl
+bfcl_eval

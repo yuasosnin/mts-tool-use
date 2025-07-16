@@ -1,0 +1,20 @@
+{"id": "simple_0", "ground_truth": [{"book_flight": {"from": ["New York", "NY"], "to": ["San Francisco", "SF"], "date": ["2025-09-01", "2023-09-01"]}}]}
+{"id": "simple_1", "ground_truth": [{"book_flight": {"from": ["Tokyo"], "to": ["Seoul"], "date": ["2025-08-22"]}}]}
+{"id": "simple_2", "ground_truth": [{"book_flight": {"from": ["Berlin"], "to": ["Amsterdam"], "date": ["2025-07-30", "2023-07-30"]}}]}
+{"id": "simple_3", "ground_truth": [{"book_flight": {"from": ["Chicago"], "to": ["Houston"], "date": ["2025-10-05", "2023-10-05"]}}]}
+{"id": "simple_4", "ground_truth": [{"book_flight": {"from": ["Madrid"], "to": ["Rome"], "date": ["2025-11-12", "2023-11-12"]}}]}
+{"id": "simple_5", "ground_truth": [{"book_flight": {"from": ["Mumbai"], "to": ["Dubai"], "date": ["2025-08-03", "2023-08-03"]}}]}
+{"id": "simple_6", "ground_truth": [{"book_flight": {"from": ["Toronto"], "to": ["Vancouver"], "date": ["2025-12-18", "2023-12-18"]}}]}
+{"id": "simple_7", "ground_truth": [{"book_flight": {"from": ["Sydney"], "to": ["Melbourne"], "date": ["2025-07-20", "2023-07-20"]}}]}
+{"id": "simple_8", "ground_truth": [{"book_flight": {"from": ["Paris"], "to": ["Lisbon"], "date": ["2025-10-02", "2023-10-02"]}}]}
+{"id": "simple_9", "ground_truth": [{"book_flight": {"from": ["Los Angeles", "LA"], "to": ["Honolulu"], "date": ["2025-08-15", "2023-08-15"]}}]}
+{"id": "simple_10", "ground_truth": [{"book_hotel": {"city": ["Rome"], "date_from": ["2025-08-10", "2023-08-10"], "date_to": ["2025-08-14", "2023-08-14"]}}]}
+{"id": "simple_11", "ground_truth": [{"book_hotel": {"city": ["Tokyo"], "date_from": ["2025-11-03", "2023-11-03"], "date_to": ["2025-11-08", "2023-11-08"]}}]}
+{"id": "simple_12", "ground_truth": [{"book_hotel": {"city": ["New York", "NY"], "date_from": ["2025-09-12", "2023-09-12"], "date_to": ["2025-09-16", "2023-09-16"]}}]}
+{"id": "simple_13", "ground_truth": [{"book_hotel": {"city": ["Dubai"], "date_from": ["2025-07-18", "2023-07-18"], "date_to": ["2025-07-21", "2023-07-21"]}}]}
+{"id": "simple_14", "ground_truth": [{"book_hotel": {"city": ["Berlin"], "date_from": ["2025-12-20", "2023-12-20"], "date_to": ["2025-12-24", "2023-12-24"]}}]}
+{"id": "simple_15", "ground_truth": [{"book_hotel": {"city": ["Barcelona"], "date_from": ["2025-03-02", "2023-03-02"], "date_to": ["2025-03-05", "2023-03-05"]}}]}
+{"id": "simple_16", "ground_truth": [{"book_hotel": {"city": ["Chicago"], "date_from": ["2025-02-10", "2023-02-10"], "date_to": ["2025-02-13", "2023-02-13"]}}]}
+{"id": "simple_17", "ground_truth": [{"book_hotel": {"city": ["Bangkok"], "date_from": ["2025-05-07", "2023-05-07"], "date_to": ["2025-05-11", "2023-05-11"]}}]}
+{"id": "simple_18", "ground_truth": [{"book_hotel": {"city": ["Lisbon"], "date_from": ["2025-10-18", "2023-10-18"], "date_to": ["2025-10-20", "2023-10-20"]}}]}
+{"id": "simple_19", "ground_truth": [{"book_hotel": {"city": ["Paris"], "date_from": ["2025-12-30", "2023-12-30"], "date_to": ["2026-01-02", "2024-01-02"]}}]}
