@@ -1,7 +1,6 @@
 import argparse
 import datetime
 import json
-import os
 import re
 
 import torch
@@ -10,8 +9,6 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, logging, pipeline
 
 
 logging.set_verbosity_error()
-
-os.environ["HF_ENDPOINT"] = "http://huggingface.proxy"
 
 
 def get_args():
